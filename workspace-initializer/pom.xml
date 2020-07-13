@@ -11,5 +11,12 @@
 
     <artifactId>workspace-initializer</artifactId>
 
+    <dependencies>
+        <dependency>
+            <artifactId>common-data-structure</artifactId>
+            <groupId>net.leanix</groupId>
+        </dependency>
+    </dependencies>
+
 
 </project>
